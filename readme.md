@@ -12,7 +12,9 @@ ___
   - Standalone
 ___
 
-###Beispiel siehe example.php
+###Beispielsource siehe example.php
+[Beispielseite][bsp]
 ___
 
 [pqpLink]:https://github.com/wufoo/PHP-Quick-Profiler
+[bsp]:http://tools.fresh-dev.de/hilfsmittel/profiler/
